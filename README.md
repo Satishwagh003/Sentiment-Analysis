@@ -1,5 +1,5 @@
 # Sentiment-Analysis-of-Amazon-Reviews
- This project applies different classification techniques of sentiment analysis on reviews of yelp dataset to classify reviews as positive and negative.
+ This project applies different classification techniques of sentiment analysis on reviews of Amazon dataset to classify reviews as positive and negative.
 
 ## Contributors
 Satish Wagh
