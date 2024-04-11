@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Yelp-Reviews
+# Sentiment-Analysis-of-Amazon-Reviews
  This project applies different classification techniques of sentiment analysis on reviews of yelp dataset to classify reviews as positive and negative.
 
 ## Contributors
